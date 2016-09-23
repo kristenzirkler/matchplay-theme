@@ -1,0 +1,62 @@
+---
+layout: default
+title: Shoe Builder
+slug: shoe-builder-static
+path: ../
+
+meta-title: Static Shoe Builder
+meta-description: Static Shoe Builder.
+---
+<div class="shoe-builder" id="MPShoeBuilder">
+	<div class="options-ctr">
+		<img class="logo" src="{{ site.baseurl }}/img/logo.png" alt="Matchplay Footwear" />
+		<div class="options">
+			<div class="meta shoe-meta" data-shoe-color=""><span></span></div>
+			<h2>Shoe Color</h2>
+			<div class="color-options" data-option-type="shoe">
+				{% include color-option-list.html layout="shoe" %}
+			</div>
+			<div class="meta saddle-meta" data-saddle-color=""><span></span></div>
+			<h2>Saddle Color</h2>
+			<div class="color-options" data-option-type="saddle">
+				{% include color-option-list.html layout="saddle" %}
+			</div>
+			<div class="meta laces-meta" data-laces-color=""><span></span></div>
+			<h2>Lace Color</h2>
+			<div class="color-options" data-option-type="laces">
+				{% include color-option-list.html layout="laces" %}
+			</div>
+			<div class="meta size-meta" data-shoe-size=""><span>-</span></div>
+			<h2>Shoe Size</h2>
+			<div class="size-options" data-option-type="size">
+				(size dropdown)
+			</div>
+		</div>
+	</div>
+	<div class="photo-ctr">
+		<!--div class="photo-view" id="ShoeView">
+			<span class="selected" data-view="view-1">View 1</span>
+			<span data-view="view-2">View 2</span>
+		</div-->
+		<div class="photo" id="ShoePreview">
+			<span class="laces-photo"></span>
+			<span class="saddle-photo"></span>
+			<span class="shoe-photo"></span>
+		</div>
+	</div>
+	<div class="product-info-ctr">
+		<!--div class="shoe-all-meta" id="ShoeMeta">
+			<div class="shoe-meta" data-shoe-color=""><strong>Shoe: </strong><span>-</span></div>
+			<div class="size-meta" data-shoe-size=""><strong>Size: </strong><span>-</span></div>
+			<div class="saddle-meta" data-saddle-color=""><strong>Saddle: </strong><span>-</span></div>
+			<div class="laces-meta" data-laces-color=""><strong>Laces: </strong><span>-</span></div>
+		</div-->
+		<h2>Custom Shoe Builder</h2>
+		<a class="cta-button block" href="">Add to Cart</a>
+		<a class="temp-shoe-toggle" href="#" rel="buyShoesToggle"><i class="fa fa-check-square-o"></i> &nbsp;Include Shoes In Cart</a>
+		<p class="description">Tired of the same old boring golf shoes?  Us too.  Now your shoes can express your individual style!  Our patent pending modular saddles feature magnetic edges that slip...<br>
+		<a href="#">Learn More About the Innovator 1.0</a></p>
+
+
+	</div>
+</div>

@@ -1,1 +1,1 @@
-# Matchplay Footware Shopify Theme & Static Pages
+# Matchplay Footwear Shopify Theme & Static Pages

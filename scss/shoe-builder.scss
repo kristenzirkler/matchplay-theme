@@ -1,0 +1,199 @@
+// Temp for Static Page
+.shoe-builder {
+	overflow: hidden;
+	width: 1200px;
+	margin: 0 auto;
+// use grid on real site
+	.photo-ctr {
+		float: left;
+		width: 500px;
+		margin: 0 50px 0 70px;
+	}
+	.options-ctr {
+		float: left;
+		width: 216px;
+		.logo {
+			width: 125px;
+			display: block;
+			margin: 0 auto 30px;
+		}
+	}
+	.product-info-ctr {
+		float: left;
+		width: 264px;
+		h2 {
+			text-transform: uppercase;
+			font-weight: bold;
+			margin-top: 100px;
+			margin-bottom: 20px;
+		}
+		.cta-button.block {
+			border: 2px solid $main-color;
+			color: $main-color;
+			line-height: 50px;
+			font-size: 18px;
+			text-transform: uppercase;
+			font-weight: bold;
+			text-align: center;
+			display: block;
+		}
+	}
+	.temp-shoe-toggle {
+		display: block;
+		line-height: 30px;
+		margin: 10px 0 30px;
+		font-size: 14px;
+		color: $main-color;
+		i {
+			font-size: 18px;
+		}
+	}
+	.description {
+		font-size: 12px;
+	}
+//
+	.color-options {
+		margin-bottom: 10px;
+	}
+}
+.shoe-builder {
+	.photo {
+		position: relative;
+		background-color: $gray-lightest;
+		width: 500px;
+		height: 340px; // temp... need dynamic?
+		span {
+			position: absolute;
+			top: 0; bottom: 0;
+			left: 0; right: 0;
+			background-size: 500px 340px;
+			background-position: left top;
+			@include transition(all .5s);
+		}
+		.shoe-photo {
+			z-index: 1;
+			@for $i from 1 through length($option-color-list) {
+				&.#{nth($option-color-list, $i)} {
+					@include option-image('shoe',nth($option-color-list, $i));
+				}
+			}
+		}
+		.saddle-photo {
+			z-index: 2;
+			@for $i from 1 through length($option-color-list) {
+				&.#{nth($option-color-list, $i)} {
+					@include option-image('saddle',nth($option-color-list, $i));
+				}
+			}
+		}
+		.laces-photo {
+			z-index: 3;
+			@for $i from 1 through length($option-color-list) {
+				&.#{nth($option-color-list, $i)} {
+					@include option-image('laces',nth($option-color-list, $i));
+				}
+			}
+		}
+	}
+	.options {
+		width: 216px;
+		h2, .meta {
+			line-height: 25px;
+			font-size: 12px;
+			margin-right: 6px;
+		}
+		h2 {
+			border-top: 1px solid $border-color;
+			text-transform: uppercase;
+			font-weight: bold;
+		}
+		.meta {
+			float: right;
+			text-transform: capitalize;
+		}
+	}
+	.color-options {
+		ul {
+			overflow: hidden;
+		}
+		li {
+			float: left;
+		}
+		div {
+			width: 20px;
+			height: 20px;
+			margin: 0 6px 6px 0;
+			background: #eee;
+			border: 1px solid #eee;
+			text-indent: -5000px;
+			@for $i from 1 through length($option-color-list) {
+				&.#{nth($option-color-list, $i)} {
+					@include option-color(nth($option-color-vars-list, $i));
+				}
+			}
+			&.white {
+				border-color: #ccc;
+			}
+			&:hover {
+				cursor: pointer;
+			}
+		}
+	}
+	.shoe-all-meta {
+		font-size: 14px;
+		text-transform: uppercase;
+		border-bottom: 1px solid $border-color;
+		margin-bottom: 30px;
+		div {
+			border-top: 1px solid $border-color;
+			line-height: 40px;
+		}
+		strong {
+			display: inline-block;
+			width: 80px;
+			margin-right: 5px;
+			color: $gray;
+		}
+		span {
+			text-transform: capitalize;
+			display: inline-block;
+			@for $i from 1 through length($option-color-list) {
+				&.#{nth($option-color-list, $i)}:before {
+					@include option-color(nth($option-color-vars-list, $i));
+				}
+			}
+			&:before {
+				width: 15px;
+				height: 15px;
+				margin-right: 8px;
+				background-color: #eee;
+				content: ' ';
+				display: inline-block;
+				float: left;
+				margin-top: 11px;
+				border: 1px solid #eee;
+			}
+			&.white:before {
+				border-color: #ccc;
+				
+			}
+		}
+		.size-meta span:before {
+			display: none;
+		}
+	}
+}
+
+// Responsive
+@media all and (min-width: 420px) {
+// Tablet & Up
+
+// End Tablet & Up
+}
+
+@media all and (min-width: 800px) {
+// Desktop & Up
+
+
+// End Desktop & Up
+}

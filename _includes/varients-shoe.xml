@@ -1,0 +1,1036 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<product>
+<id type="integer">6256957957</id>
+<title>The Innovator 1.0</title>
+<body-html>
+<p><span style="font-weight: 400;">INNOVATOR 1.0 SHOE</span></p> <p><span style="font-weight: 400;">Simply stated, the most versatile shoe in golf.  The Innovator 1.0 is the first shoe ever to possess our patent pending (HCT) Hidden Channel Technology.  This breakthrough allows the modular saddles to be swapped in and out with ease.  Not only are the saddles interchangeable, they’re also functional and they tighten the shoe just as conventional shoe with laces would.  </span></p> <p><span style="font-weight: 400;">The Innovator 1.0 features premium waterproof leather uppers, micro-perforated leather lining, light-weight injection molded EVA midsoles and a TPU outsole for optimum comfort.  </span></p> <p><span style="font-weight: 400;">Limitless color combinations, classic styling, premium materials and world-class comfort… what else do you need?  What else would you want?</span></p> <p><span style="font-weight: 400;">The Innovator 1.0 shoe comes with our Jack Grace Innovator Saddle in our signature Azure color. Combine The Innovator 1.0 shoe with more your favorite interchangeable saddles, sold separately. </span></p> <p><i><span style="font-weight: 400;">*Sizing Note: </span></i><i><span style="font-weight: 400;">This shoe is not intended for people with wider than typical feet.  If you’re guessing on sizes, we suggest you round up.</span></i></p>
+</body-html>
+<vendor>Jack Grace USA</vendor>
+<product-type/>
+<created-at type="dateTime">2016-09-20T08:24:57-07:00</created-at>
+<handle>the-innovator-shoe-1-0</handle>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<published-at type="dateTime">2016-09-20T08:22:00-07:00</published-at>
+<template-suffix nil="true"/>
+<published-scope>global</published-scope>
+<tags/>
+<variants type="array">
+<variant>
+<id type="integer">20475592069</id>
+<product-id type="integer">6256957957</product-id>
+<title>8 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">1</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>8</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:57-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:30-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592005</id>
+<product-id type="integer">6256957957</product-id>
+<title>8 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">2</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>8</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:57-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:30-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592133</id>
+<product-id type="integer">6256957957</product-id>
+<title>8 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">3</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>8</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:57-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:30-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592261</id>
+<product-id type="integer">6256957957</product-id>
+<title>8.5 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">4</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>8.5</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:57-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592197</id>
+<product-id type="integer">6256957957</product-id>
+<title>8.5 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">5</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>8.5</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:57-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592325</id>
+<product-id type="integer">6256957957</product-id>
+<title>8.5 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">6</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>8.5</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592453</id>
+<product-id type="integer">6256957957</product-id>
+<title>9 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">7</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>9</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592389</id>
+<product-id type="integer">6256957957</product-id>
+<title>9 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">8</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>9</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592517</id>
+<product-id type="integer">6256957957</product-id>
+<title>9 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">9</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>9</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592645</id>
+<product-id type="integer">6256957957</product-id>
+<title>9.5 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">10</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>9.5</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592581</id>
+<product-id type="integer">6256957957</product-id>
+<title>9.5 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">11</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>9.5</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592709</id>
+<product-id type="integer">6256957957</product-id>
+<title>9.5 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">12</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>9.5</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592837</id>
+<product-id type="integer">6256957957</product-id>
+<title>10 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">13</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>10</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592773</id>
+<product-id type="integer">6256957957</product-id>
+<title>10 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">14</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>10</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592901</id>
+<product-id type="integer">6256957957</product-id>
+<title>10 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">15</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>10</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593029</id>
+<product-id type="integer">6256957957</product-id>
+<title>10.5 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">16</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>10.5</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:31-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475592965</id>
+<product-id type="integer">6256957957</product-id>
+<title>10.5 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">17</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>10.5</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593093</id>
+<product-id type="integer">6256957957</product-id>
+<title>10.5 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">18</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>10.5</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593221</id>
+<product-id type="integer">6256957957</product-id>
+<title>11 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">19</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>11</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593157</id>
+<product-id type="integer">6256957957</product-id>
+<title>11 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">20</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>11</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593285</id>
+<product-id type="integer">6256957957</product-id>
+<title>11 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">21</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>11</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593989</id>
+<product-id type="integer">6256957957</product-id>
+<title>11.5 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">22</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>11.5</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593925</id>
+<product-id type="integer">6256957957</product-id>
+<title>11.5 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">23</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>11.5</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475594053</id>
+<product-id type="integer">6256957957</product-id>
+<title>11.5 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">24</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>11.5</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593413</id>
+<product-id type="integer">6256957957</product-id>
+<title>12 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">25</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>12</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593349</id>
+<product-id type="integer">6256957957</product-id>
+<title>12 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">26</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>12</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593477</id>
+<product-id type="integer">6256957957</product-id>
+<title>12 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">27</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>12</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593605</id>
+<product-id type="integer">6256957957</product-id>
+<title>13 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">28</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>13</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593541</id>
+<product-id type="integer">6256957957</product-id>
+<title>13 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">29</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>13</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593669</id>
+<product-id type="integer">6256957957</product-id>
+<title>13 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">30</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>13</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593797</id>
+<product-id type="integer">6256957957</product-id>
+<title>14 / Grey</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">31</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>14</option1>
+<option2>Grey</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192581</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593733</id>
+<product-id type="integer">6256957957</product-id>
+<title>14 / White</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">32</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>14</option1>
+<option2>White</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192645</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+<variant>
+<id type="integer">20475593861</id>
+<product-id type="integer">6256957957</product-id>
+<title>14 / Black</title>
+<price type="decimal">160.00</price>
+<sku/>
+<position type="integer">33</position>
+<grams type="integer">0</grams>
+<inventory-policy>deny</inventory-policy>
+<compare-at-price type="decimal" nil="true"/>
+<fulfillment-service>manual</fulfillment-service>
+<inventory-management nil="true"/>
+<option1>14</option1>
+<option2>Black</option2>
+<option3 nil="true"/>
+<created-at type="dateTime">2016-09-20T08:24:58-07:00</created-at>
+<updated-at type="dateTime">2016-09-21T10:52:32-07:00</updated-at>
+<taxable type="boolean">true</taxable>
+<barcode/>
+<image-id type="integer">15438192389</image-id>
+<inventory-quantity type="integer">1</inventory-quantity>
+<weight type="float">0.0</weight>
+<weight-unit>lb</weight-unit>
+<old-inventory-quantity type="integer">1</old-inventory-quantity>
+<requires-shipping type="boolean">true</requires-shipping>
+</variant>
+</variants>
+<options type="array">
+<option>
+<id type="integer">7520203205</id>
+<product-id type="integer">6256957957</product-id>
+<name>Size</name>
+<position type="integer">1</position>
+<values type="array">
+<value>8</value>
+<value>8.5</value>
+<value>9</value>
+<value>9.5</value>
+<value>10</value>
+<value>10.5</value>
+<value>11</value>
+<value>11.5</value>
+<value>12</value>
+<value>13</value>
+<value>14</value>
+</values>
+</option>
+<option>
+<id type="integer">7520203269</id>
+<product-id type="integer">6256957957</product-id>
+<name>Color</name>
+<position type="integer">2</position>
+<values type="array">
+<value>Grey</value>
+<value>White</value>
+<value>Black</value>
+</values>
+</option>
+</options>
+<images type="array">
+<image>
+<id type="integer">15438192581</id>
+<product-id type="integer">6256957957</product-id>
+<position type="integer">1</position>
+<created-at type="dateTime">2016-09-20T13:28:53-07:00</created-at>
+<updated-at type="dateTime">2016-09-20T13:29:12-07:00</updated-at>
+<src>
+https://cdn.shopify.com/s/files/1/1494/4022/products/img169.jpg?v=1474403352
+</src>
+<variant-ids type="array">
+<variant-id type="integer">20475592069</variant-id>
+<variant-id type="integer">20475592261</variant-id>
+<variant-id type="integer">20475592453</variant-id>
+<variant-id type="integer">20475592645</variant-id>
+<variant-id type="integer">20475592837</variant-id>
+<variant-id type="integer">20475593029</variant-id>
+<variant-id type="integer">20475593221</variant-id>
+<variant-id type="integer">20475593413</variant-id>
+<variant-id type="integer">20475593605</variant-id>
+<variant-id type="integer">20475593797</variant-id>
+<variant-id type="integer">20475593989</variant-id>
+</variant-ids>
+</image>
+<image>
+<id type="integer">15438192645</id>
+<product-id type="integer">6256957957</product-id>
+<position type="integer">2</position>
+<created-at type="dateTime">2016-09-20T13:28:54-07:00</created-at>
+<updated-at type="dateTime">2016-09-20T13:29:12-07:00</updated-at>
+<src>
+https://cdn.shopify.com/s/files/1/1494/4022/products/img170.jpg?v=1474403352
+</src>
+<variant-ids type="array">
+<variant-id type="integer">20475592005</variant-id>
+<variant-id type="integer">20475592197</variant-id>
+<variant-id type="integer">20475592389</variant-id>
+<variant-id type="integer">20475592581</variant-id>
+<variant-id type="integer">20475592773</variant-id>
+<variant-id type="integer">20475592965</variant-id>
+<variant-id type="integer">20475593157</variant-id>
+<variant-id type="integer">20475593349</variant-id>
+<variant-id type="integer">20475593541</variant-id>
+<variant-id type="integer">20475593733</variant-id>
+<variant-id type="integer">20475593925</variant-id>
+</variant-ids>
+</image>
+<image>
+<id type="integer">15438192389</id>
+<product-id type="integer">6256957957</product-id>
+<position type="integer">3</position>
+<created-at type="dateTime">2016-09-20T13:28:52-07:00</created-at>
+<updated-at type="dateTime">2016-09-20T13:29:12-07:00</updated-at>
+<src>
+https://cdn.shopify.com/s/files/1/1494/4022/products/img168.jpg?v=1474403352
+</src>
+<variant-ids type="array">
+<variant-id type="integer">20475592133</variant-id>
+<variant-id type="integer">20475592325</variant-id>
+<variant-id type="integer">20475592517</variant-id>
+<variant-id type="integer">20475592709</variant-id>
+<variant-id type="integer">20475592901</variant-id>
+<variant-id type="integer">20475593093</variant-id>
+<variant-id type="integer">20475593285</variant-id>
+<variant-id type="integer">20475593477</variant-id>
+<variant-id type="integer">20475593669</variant-id>
+<variant-id type="integer">20475593861</variant-id>
+<variant-id type="integer">20475594053</variant-id>
+</variant-ids>
+</image>
+<image>
+<id type="integer">15437075909</id>
+<product-id type="integer">6256957957</product-id>
+<position type="integer">4</position>
+<created-at type="dateTime">2016-09-20T12:02:37-07:00</created-at>
+<updated-at type="dateTime">2016-09-20T13:29:12-07:00</updated-at>
+<src>
+https://cdn.shopify.com/s/files/1/1494/4022/products/3_Topdown.jpg?v=1474403352
+</src>
+<variant-ids type="array"/>
+</image>
+<image>
+<id type="integer">15437079109</id>
+<product-id type="integer">6256957957</product-id>
+<position type="integer">5</position>
+<created-at type="dateTime">2016-09-20T12:02:49-07:00</created-at>
+<updated-at type="dateTime">2016-09-20T13:29:12-07:00</updated-at>
+<src>
+https://cdn.shopify.com/s/files/1/1494/4022/products/4_Sole.jpg?v=1474403352
+</src>
+<variant-ids type="array"/>
+</image>
+<image>
+<id type="integer">15437142021</id>
+<product-id type="integer">6256957957</product-id>
+<position type="integer">6</position>
+<created-at type="dateTime">2016-09-20T12:07:04-07:00</created-at>
+<updated-at type="dateTime">2016-09-20T13:29:12-07:00</updated-at>
+<src>
+https://cdn.shopify.com/s/files/1/1494/4022/products/6_Back.jpg?v=1474403352
+</src>
+<variant-ids type="array"/>
+</image>
+</images>
+<image>
+<id type="integer">15438192581</id>
+<product-id type="integer">6256957957</product-id>
+<position type="integer">1</position>
+<created-at type="dateTime">2016-09-20T13:28:53-07:00</created-at>
+<updated-at type="dateTime">2016-09-20T13:29:12-07:00</updated-at>
+<src>
+https://cdn.shopify.com/s/files/1/1494/4022/products/img169.jpg?v=1474403352
+</src>
+<variant-ids type="array">
+<variant-id type="integer">20475592069</variant-id>
+<variant-id type="integer">20475592261</variant-id>
+<variant-id type="integer">20475592453</variant-id>
+<variant-id type="integer">20475592645</variant-id>
+<variant-id type="integer">20475592837</variant-id>
+<variant-id type="integer">20475593029</variant-id>
+<variant-id type="integer">20475593221</variant-id>
+<variant-id type="integer">20475593413</variant-id>
+<variant-id type="integer">20475593605</variant-id>
+<variant-id type="integer">20475593797</variant-id>
+<variant-id type="integer">20475593989</variant-id>
+</variant-ids>
+</image>
+</product>

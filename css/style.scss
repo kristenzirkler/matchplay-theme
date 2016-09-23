@@ -4,9 +4,9 @@
 @import 'variables';
 
 @import 'reset';
-@import 'icons';
+@import 'shoe-builder';
 @import 'site-frame';
-@import 'buttons';
+//@import 'buttons';
 
 * {
   -webkit-box-sizing: border-box;
@@ -34,19 +34,6 @@ p {
   margin-bottom: 1em;
 }
 
-.button {
-  padding: 1em 1.5em;
-  color: #fff;
-  display: inline-block;
-  background: $main-color;
-  font-family: $accent-font;
-  text-transform: uppercase;
-  &:hover {
-    color: #fff;
-    background: lighten($main-color,10);
-  }
-}
-
 // Headers
 h1, h2, h3, h4 {
   font-family: $accent-font;
@@ -67,53 +54,6 @@ h4 {
   font-size: 18px;
   margin-bottom: 1em;
   color: $main-color;
-}
-
-
-/* KZ Love Footer */
-$kz-font-color: #999;
-$kz-font-hover-color: #e13c3b; // red
-$kz-bg-color: #e5e5e5;
-
-.site-design {
-  background: $kz-bg-color;
-  color: $kz-font-color;
-  padding: 10px;
-  a {
-    display: block;
-    color: $kz-font-color;
-    &:hover {
-      color: $kz-font-hover-color;
-      .kz-icon-arizona {
-        color: $kz-font-hover-color;
-      }
-    }
-  }
-  .made-in-az {
-    position: relative;
-    font-size: 14px;
-    padding-left: 35px;
-  }
-  span {
-    display: block;
-    line-height: 25px;
-    text-transform: uppercase;
-    font-weight: bold;
-  }
-  i {
-    position: absolute;
-  }
-  .kz-icon-arizona {
-    top: 0;
-    left: 0;
-    font-size: 25px;
-  }
-  .kz-icon-heart-empty {
-    color: $kz-bg-color;
-    font-size: 11px;
-    top: 6px;
-    left: 11px;
-  }
 }
 
 // Responsive
