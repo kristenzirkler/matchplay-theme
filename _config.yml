@@ -1,7 +1,7 @@
 highlighter: rouge
 github: [Repository metadata]
 
-baseurl: "https://kristenzirkler.github.io/matchplay-theme"
+baseurl: "http://kristenzirkler.github.io/matchplay-theme"
 
 # Sass
 sass:
